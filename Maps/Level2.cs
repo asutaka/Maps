@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Maps
 {
-    public partial class Level1 : Form
+    public partial class Level2 : Form
     {
-        public Level1()
+        public Level2()
         {
             InitializeComponent();
         }

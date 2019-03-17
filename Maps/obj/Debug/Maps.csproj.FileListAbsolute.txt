@@ -7,3 +7,12 @@ H:\C#\Maps\Maps\obj\Debug\Maps.Properties.Resources.resources
 H:\C#\Maps\Maps\obj\Debug\Maps.csproj.GenerateResource.Cache
 H:\C#\Maps\Maps\obj\Debug\Maps.exe
 H:\C#\Maps\Maps\obj\Debug\Maps.pdb
+D:\HOME\Maps\Maps\bin\Debug\Maps.exe.config
+D:\HOME\Maps\Maps\bin\Debug\Maps.exe
+D:\HOME\Maps\Maps\bin\Debug\Maps.pdb
+D:\HOME\Maps\Maps\obj\Debug\Maps.Level1.resources
+D:\HOME\Maps\Maps\obj\Debug\Maps.Level2.resources
+D:\HOME\Maps\Maps\obj\Debug\Maps.Properties.Resources.resources
+D:\HOME\Maps\Maps\obj\Debug\Maps.csproj.GenerateResource.Cache
+D:\HOME\Maps\Maps\obj\Debug\Maps.exe
+D:\HOME\Maps\Maps\obj\Debug\Maps.pdb
